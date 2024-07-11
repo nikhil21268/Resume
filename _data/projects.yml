@@ -1,0 +1,16 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# jazznotes.io
+- project: Language Translation Model 
+  role: Team Leader and Developer
+  duration: Feb 24 &mdash; May 24
+  # url: "#"
+  description: Developed four NLP models for translating languages such as Hindi to English with 72% accuracy, leading a team in presenting our work and achieving 100% in final project evaluations.
+
+# Springfield Community Outreach Group
+- project: Google Cloud Platform
+  role: Team Leader and Developer
+  duration: Jan 24 &mdash; Feb 24
+  # url: "#"
+  description: Developed a Python-based shopping application on Google Cloud using distributed architecture, achieving top marks and performing 46% better than the class average. 
