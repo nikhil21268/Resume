@@ -15,4 +15,4 @@ This code and the accompanying materials are made available on an "as is" basis,
 This project is protected by copyright and other intellectual property laws. It does not come with any license that would permit reproduction, distribution, or creation of derivative works. You may not use, copy, modify, or distribute this software and its documentation without express written permission from the copyright holder.
 
 ## Contact Information
-For further inquiries, you can reach me at [mailto:nikhil21268@iiitd.ac.in]
+For further inquiries, you can reach me at [nikhil21268@iiitd.ac.in]
