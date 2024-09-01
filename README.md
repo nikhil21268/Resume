@@ -4,6 +4,8 @@
 
 ![img](images/screenshot.png)
 
+[Checkout my Resume!](https://nikhil21268.github.io/Resume/)
+
 # Copyright and License
 
 ## Copyright (c) 2024, Nikhil Suri
