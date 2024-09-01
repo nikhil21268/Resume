@@ -1,6 +1,6 @@
 # Resume
 
-*A simple Jekyll + GitHub Pages powered resume.*
+*An awesome resume template!.*
 
 ![img](images/screenshot.png)
 
