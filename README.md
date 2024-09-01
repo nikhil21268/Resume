@@ -1,6 +1,6 @@
 # Resume
 
-*An awesome resume template!.*
+*An awesome resume template!*
 
 ![img](images/screenshot.png)
 
