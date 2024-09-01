@@ -2,15 +2,33 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: Language Translation Model 
+- project: Language Summarization Model | Natural Language Processing 
   role: Team Leader and Developer
   duration: Feb 24 &mdash; May 24
   # url: "#"
-  description: Developed four NLP models for translating languages such as Hindi to English with 72% accuracy, leading a team in presenting our work and achieving 95% in final project evaluations.
+  description: Developed four NLP models for summarizing news articles in Hindi, with 72% accuracy, leading a team in presenting our work and achieving 100% in final project evaluations.
 
 # Springfield Community Outreach Group
-- project: Google Cloud Platform
+- project: Online Shopping Platform | Google Cloud
   role: Team Leader and Developer
   duration: Jan 24 &mdash; Feb 24
   # url: "#"
   description: Developed a Python-based shopping application on Google Cloud using distributed architecture, achieving top marks and performing 36% better than the class average. 
+
+- project: Music Generation using Markov Chains | Stochastic Processes
+  role: Team Leader and Developer
+  duration: Oct 23 &mdash; Nov 23
+  # url: "#"
+  description: Wrote a Python program using higher-order Markov Chain analysis to generate music, achieving a 57% improvement in sound quality.  
+
+- project: Encrypted Data Transfer | Cyber Security
+  role: Team Leader and Developer
+  duration: Feb 24 &mdash; May 24
+  # url: "#"
+  description: Built several cybersecurity projects, including a system that securely sends encrypted text, images, and PDFs to multiple recipients, scoring 120% marks in total.  
+
+- project: Java Game Development | Advanced Programming 
+  role: Team Leader and Developer
+  duration: Oct 22 &mdash; Dec 22
+  # url: "#"
+  description: Built the Tanks Stars game using LibGDX, Java, and Figma, receiving 110% marks in project presentations for its exceptional design and functionality.  
